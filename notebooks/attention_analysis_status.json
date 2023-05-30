@@ -1,0 +1,2674 @@
+{
+    "pcfg--md_productivity$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "pcfg--md_productivity$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "pcfg--md_productivity$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "pcfg--md_productivity$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "pcfg--md_productivity$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "pcfg--productivity$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "pcfg--productivity$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "pcfg--productivity$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "pcfg--productivity$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "pcfg--productivity$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": false,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "0/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_abs_sin$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": false,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "0/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": false,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "0/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": false,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "0/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_alibi$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_alibi$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_newRot$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_newRot$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_newRot$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_newRot$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_newRot$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_newRot$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_newRot$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_newRot$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_none$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_none$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_none$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_none$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_none$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_none$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_none$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_rotary$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_rotary$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_t5$$$i0_c1_o0_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_t5$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_t5$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_t5$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_t5$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_t5$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_t5$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_t5$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_addition--len_tr8_ts16$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--cmc2x_tr20_ts40$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--cmc2x_tr20_ts40$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--cmc2x_tr20_ts40$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--cmc2x_tr20_ts40$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--cmc2x_tr20_ts40$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--cmc_tr20_ts40$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--cmc_tr20_ts40$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--cmc_tr20_ts40$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--cmc_tr20_ts40$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--cmc_tr20_ts40$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rdc_tr20_ts40$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rdc_tr20_ts40$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rdc_tr20_ts40$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rdc_tr20_ts40$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rdc_tr20_ts40$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rsc2x_tr20_ts40$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rsc2x_tr20_ts40$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rsc2x_tr20_ts40$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rsc2x_tr20_ts40$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rsc2x_tr20_ts40$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rsc_tr20_ts40$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rsc_tr20_ts40$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rsc_tr20_ts40$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rsc_tr20_ts40$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_copy--rsc_tr20_ts40$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_abs_sin$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_alibi$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_alibi$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_none$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_none$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_none$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_none$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_none$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_none$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_rotary$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_rotary$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_t5$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_t5$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_t5$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_t5$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_t5$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_t5$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_lego--len_tr8_ts16$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_abs_sin$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_alibi$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_alibi$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_none$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_none$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_none$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_none$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_none$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_none$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_none$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_rotary$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_rotary$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_t5$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_t5$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_t5$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_t5$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_t5$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_t5$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_t5$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_parity--len_tr8_ts16$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_abs_sin$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_abs_sin$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_alibi$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_alibi$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_none$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_none$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_none$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_none$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_none$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_none$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_none$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_rotary$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_rotary$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_t5$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_t5$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_t5$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_t5$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_t5$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_t5$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_t5$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_poly--n_terms_tr8_ts16$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_reverse--mc2x_tr20_ts40$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mc2x_tr20_ts40$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mc2x_tr20_ts40$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mc2x_tr20_ts40$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mc2x_tr20_ts40$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mc_tr20_ts40$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mc_tr20_ts40$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mc_tr20_ts40$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mc_tr20_ts40$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mc_tr20_ts40$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mcrv_tr20_ts40$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mcrv_tr20_ts40$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mcrv_tr20_ts40$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mcrv_tr20_ts40$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_reverse--mcrv_tr20_ts40$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_abs_sin$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_abs_sin$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_alibi$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_alibi$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_none$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_none$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_none$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_none$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_none$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_none$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_rotary$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_rotary$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_t5$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_t5$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_t5$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_t5$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_t5$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_t5$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_mltd_tr8_ts16$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_abs_sin$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_abs_sin$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_alibi$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_alibi$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_none$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_none$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_none$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_none$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_none$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_none$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_rotary$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_rotary$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_t5$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_t5$$$i0_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_t5$$$i1_c0_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_t5$$$i1_c1_o0_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_t5$$$i1_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_t5$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sort--len_sngd_tr8_ts16$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_abs_sin$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_abs_sin$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": false,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "1/1",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_abs_sin$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_alibi$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_alibi$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_alibi$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_alibi$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_none$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_none$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_none$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_none$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_none$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_none$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_none$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_rotary$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_rotary$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_rotary$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_rotary$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_t5$$$i0_c1_o1_v0_r0": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_t5$$$i0_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_t5$$$i1_c0_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_t5$$$i1_c1_o0_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_t5$$$i1_c1_o1_v0_r1": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_t5$$$i1_c1_o1_v1_r0": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_t5$$$i1_c1_o1_v1_r1": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "s2s_sum--len_tr8_ts16$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "scan--len_tr25_ts48$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "scan--len_tr25_ts48$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "scan--len_tr25_ts48$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "scan--len_tr25_ts48$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "scan--len_tr25_ts48$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": true,
+        "is_done__attn_analysis_aggr": false,
+        "compl_portion__attn_analysis2": "3/3",
+        "compl_portion__attn_analysis_aggr": "0/0",
+        "is_running__attn_analysis2": false,
+        "is_running__attn_analysis_aggr": false
+    },
+    "scan--mdlen_tr25_ts48$$$pe_abs_sin$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "scan--mdlen_tr25_ts48$$$pe_alibi$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "scan--mdlen_tr25_ts48$$$pe_none$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "scan--mdlen_tr25_ts48$$$pe_rotary$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    },
+    "scan--mdlen_tr25_ts48$$$pe_t5$$$no_scratchpad": {
+        "is_done__attn_analysis2": NaN,
+        "is_done__attn_analysis_aggr": NaN,
+        "compl_portion__attn_analysis2": NaN,
+        "compl_portion__attn_analysis_aggr": NaN,
+        "is_running__attn_analysis2": NaN,
+        "is_running__attn_analysis_aggr": NaN
+    }
+}

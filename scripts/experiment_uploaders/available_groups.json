@@ -1,0 +1,1430 @@
+{
+  "cedar": {
+    "SW-t5_dec_base_pe_abs_sin_s2s_poly_sweep___data-s2s_poly-n_terms_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_copy_sweep___data-s2s_copy-cmc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_reverse_sweep___data-s2s_reverse-mc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_reverse_sweep___data-s2s_reverse-mc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_copy_sweep___data-s2s_copy-rsc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_copy_sweep___data-s2s_copy-rsc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_copy_sweep___data-s2s_copy-rsc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_copy_sweep___data-s2s_copy-rsc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_copy_sweep___data-s2s_copy-rdc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_reverse_sweep___data-s2s_reverse-mc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_copy_sweep___data-s2s_copy-rdc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_copy_sweep___data-s2s_copy-cmc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_copy_sweep___data-s2s_copy-cmc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_newRot_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_copy_sweep___data-s2s_copy-rsc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_rerun_s2s_poly_sweep___data-s2s_poly-n_terms_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_rerun_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_copy_sweep___data-s2s_copy-cmc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_reverse_sweep___data-s2s_reverse-mc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_pcfg_sweep___data-pcfg-productivity": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_reverse_sweep___data-s2s_reverse-mc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_reverse_sweep___data-s2s_reverse-mc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_copy_sweep___data-s2s_copy-cmc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_copy_sweep___data-s2s_copy-cmc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_reverse_sweep___data-s2s_reverse-mc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_newRot_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_copy_sweep___data-s2s_copy-rsc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_rerun_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_poly_sweep___data-s2s_poly-n_terms_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_copy_sweep___data-s2s_copy-rsc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_copy_sweep___data-s2s_copy-rsc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_ds_debug_mode_pe_alibi_w_scratchpad4_ufs__i0_c1_o0_v0_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_copy_sweep___data-s2s_copy-rdc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_reverse_sweep___data-s2s_reverse-mc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_scan_sweep___data-scan-mdlen_tr25_ts48": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_pcfg_sweep___data-pcfg-productivity": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_reverse_sweep___data-s2s_reverse-mc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_copy_sweep___data-s2s_copy-rdc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_scan_sweep___data-scan-mdlen_tr25_ts48": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_copy_sweep___data-s2s_copy-rsc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_copy_sweep___data-s2s_copy-cmc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_scan_sweep___data-scan-mdlen_tr25_ts48": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_poly_sweep___data-s2s_poly-n_terms_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_copy_sweep___data-s2s_copy-cmc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_poly_sweep___data-s2s_poly-n_terms_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_reverse_sweep___data-s2s_reverse-mc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_copy_sweep___data-s2s_copy-rdc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_scan_sweep___data-scan-mdlen_tr25_ts48": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_pcfg_sweep___data-pcfg-productivity": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_pcfg_sweep___data-pcfg-productivity": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_copy_sweep___data-s2s_copy-cmc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_copy_sweep___data-s2s_copy-cmc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_pcfg_sweep___data-pcfg-productivity": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_scan_sweep___data-scan-mdlen_tr25_ts48": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_copy_sweep___data-s2s_copy-rsc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_poly_sweep___data-s2s_poly-n_terms_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ]
+  },
+  "narval": {
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o0_v1_r1_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_poly_sweep___data-s2s_poly-n_terms_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o1_v0_r0_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_poly_sweep___data-s2s_poly-n_terms_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_reverse_sweep___data-s2s_reverse-mc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_pcfg_sweep___data-pcfg-md_productivity": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_reverse_sweep___data-s2s_reverse-mc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i0_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o0_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o0_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_ds_debug_mode_pe_none_w_scratchpad4_ufs__i0_c1_o0_v0_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_reverse_sweep___data-s2s_reverse-mcrv_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad3_ufs__i1_c1_o0_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_poly_sweep___data-s2s_poly-n_terms_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o0_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_rotary_rerun_w_scratchpad_f_ufs__i1_c1_o0_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad3_ufs__i0_c1_o0_v0_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i0_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o0_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i0_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o0_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o0_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i0_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_ds_debug_mode_pe_alibi_w_scratchpad4_ufs__i0_c1_o0_v0_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o0_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o0_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_pcfg_sweep___data-pcfg-md_productivity": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_reverse_sweep___data-s2s_reverse-mcrv_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c0_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_ds_debug_mode_pe_rotary_w_scratchpad4_ufs__i0_c1_o0_v0_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_newRot_w_scratchpad_f_ufs__i1_c1_o0_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o1_v0_r0_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_reverse_sweep___data-s2s_reverse-mc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c0_o1_v1_r1_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c0_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o1_v0_r0_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_reverse_sweep___data-s2s_reverse-mcrv_tr20_ts40": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_ds_debug_mode_pe_none_w_scratchpad3_ufs__i0_c1_o0_v0_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_alibi_pcfg_sweep___data-pcfg-md_productivity": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i0_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o0_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i0_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o0_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c0_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_newRot_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_rotary_pcfg_sweep___data-pcfg-md_productivity": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o0_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_reverse_sweep___data-s2s_reverse-mc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_newRot_w_scratchpad_f_ufs__i1_c0_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o0_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_newRot_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i0_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_reverse_sweep___data-s2s_reverse-mc_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c0_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c0_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o0_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad3_ufs__i0_c1_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_reverse_sweep___data-s2s_reverse-mc_tr20_ts40": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v0_r0_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o0_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_rotary_rerun_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_poly_sweep___data-s2s_poly-n_terms_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_t5_s2s_reverse_sweep___data-s2s_reverse-mc2x_tr20_ts40": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c0_o1_v1_r1_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_reverse_sweep___data-s2s_reverse-mc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_rotary_s2s_reverse_sweep___data-s2s_reverse-mcrv_tr20_ts40": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c0_o1_v1_r1_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_rotary_rerun_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_poly_sweep___data-s2s_poly-n_terms_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad3_ufs__i1_c0_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad3_ufs__i1_c1_o1_v0_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o1_v0_r0_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_poly_sweep___data-s2s_poly-n_terms_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o0_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c0_o1_v1_r1_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_lego_sweep___data-s2s_lego-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o0_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad3_ufs__i1_c1_o1_v1_r0_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_s2s_reverse_sweep___data-s2s_reverse-mcrv_tr20_ts40": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c0_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_none_pcfg_sweep___data-pcfg-md_productivity": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_alibi_s2s_reverse_sweep___data-s2s_reverse-mc_tr20_ts40": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_reverse_sweep___data-s2s_reverse-mc2x_tr20_ts40": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_mltd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_146317",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c0_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i0_c1_o1_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_none_w_scratchpad_f_ufs__i1_c1_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o0_v0_r1_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_alibi_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o0_v1_r1_sum_sweep___data-sum-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_t5_w_scratchpad_f_ufs__i1_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_rotary_w_scratchpad_f_ufs__i1_c1_o1_v0_r1_s2s_sum_sweep___data-s2s_sum-len_tr8_ts16": [
+      "best_run_seed_256788"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i0_c1_o1_v0_r0_s2s_sort_sweep___data-s2s_sort-len_sngd_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_234054",
+      "best_run_seed_146317"
+    ],
+    "SW-t5_dec_base_pe_abs_sin_w_scratchpad_f_ufs__i1_c1_o1_v1_r0_s2s_parity_sweep___data-s2s_parity-len_tr8_ts16": [
+      "best_run_seed_256788",
+      "best_run_seed_146317",
+      "best_run_seed_234054"
+    ],
+    "SW-t5_dec_base_pe_newRot_w_scratchpad_f_ufs__i0_c1_o1_v1_r1_s2s_addition_sweep___data-s2s_addition-len_tr8_ts16": [
+      "best_run_seed_146317",
+      "best_run_seed_234054",
+      "best_run_seed_256788"
+    ]
+  }
+}
