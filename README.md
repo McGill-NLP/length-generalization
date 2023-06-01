@@ -5,3 +5,15 @@ Abstract:
 
 ## Reproducibility
 Work-in-progress. The instruction to fully replicate the results will be released in the coming weeks. 
+
+## Citation
+```bibtex
+@misc{kazemnejad2023:ImpactOfPeOnLengthGen,
+      title={The Impact of Positional Encoding on Length Generalization in Transformers}, 
+      author={Amirhossein Kazemnejad and Inkit Padhi and Karthikeyan Natesan Ramamurthy and Payel Das and Siva Reddy},
+      year={2023},
+      eprint={2305.19466},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
