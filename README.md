@@ -25,7 +25,7 @@ chmod a+x scripts/download_and_prepare_datasets.sh
 ./scripts/download_and_prepare_datasets.sh
 ```
 
-### Run training
+### Create the experiment script
 The following script provides a full training and evaluation scenario for training the model on a given dataset.
 
 Use `run.sh.template` to create an experiment for different datasets and models. 
@@ -56,7 +56,7 @@ RUN_ID_PREFIX="run__${DS}__${PE}"
 
 CONFIGS_STR="configs/t5_dec_base.jsonnet,\
 configs/models/${PE}.jsonnet,\
-configs/data/${PE}.jsonnet,\
+configs/data/${DS}.jsonnet,\
 configs/sweep.jsonnet,\
 configs/hp_base.jsonnet,\
 configs/final.jsonnet"
@@ -88,10 +88,24 @@ for SEED in $SEEDS; do
 done
 ```
 
-Run the experiment:
+### Run the experiment:
+1. Using conda:
 ```bash
+mkdir -p experiments
+conda activate pt_v7
 chmod a+x run.sh
 ./run.sh
+```
+
+2. Using the singularity container:
+```bash
+mkdir -p experiments
+chmod a+x run.sh
+singularity exec --nv \
+	-H $(pwd):$HOME \
+	-B $(pwd)/experiments:$HOME/experiments \
+	/path/to/singularity/image/pt_v7.sif \
+	./run.sh
 ```
 
 Note that this script will heavily make use of the [wandb](https://wandb.ai/) platform to log the results.
