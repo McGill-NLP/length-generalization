@@ -265,7 +265,7 @@ fabric.properties
 
 /third_parties/
 
-
+run.sh
 .vscode/settings.json
 .scripts/.launcher_config.json
 dataset/

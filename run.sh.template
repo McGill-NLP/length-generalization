@@ -1,0 +1,51 @@
+#!/bin/bash
+
+set -e
+
+
+#-------------------- EDIT THIS PART --------------------#
+PE=pe_abs_sin # Select from pe_none, pe_t5, pe_alibi, pe_rotary, pe_abs_sin
+DS=scan # See data/ for available datasets
+export APP_DS_SPLIT=mdlen_tr25_ts48 # Check data/$DS for available splits
+export WANDB_ENTITY="<YOUR_WANDB_ENTITY>"
+#-------------------- EDIT THIS PART --------------------#
+
+
+export WANDB_RUN_GROUP="SW-t5_dec_base_${PE}_scan_sweep___data-${DS}-${APP_DS_SPLIT}"
+export WANDB_TAGS="classic,classic_${DS}"
+export WANDB_PROJECT="len_gen"
+
+RUN_ID_PREFIX="run__${DS}__${PE}"
+
+CONFIGS_STR="configs/t5_dec_base.jsonnet,\
+configs/models/${PE}.jsonnet,\
+configs/data/${PE}.jsonnet,\
+configs/sweep.jsonnet,\
+configs/hp_base.jsonnet,\
+configs/final.jsonnet"
+
+SEEDS="256788 234054 146317"
+
+for SEED in $SEEDS; do
+  export APP_DIRECTORY="experiments/${WANDB_RUN_GROUP}"
+  export APP_EXPERIMENT_NAME="seed_${SEED}"
+  export APP_SEED=$SEED
+
+  export WANDB_JOB_TYPE=best_run_seed_exp
+  export WANDB_RUN_ID="${RUN_ID_PREFIX}__${SEED}"
+  # Training, Evaluation, and Analysis all in one command
+  python src/main.py --configs $CONFIGS_STR \
+    full_step
+
+  export WANDB_JOB_TYPE=attn_analysis2
+  export WANDB_RUN_ID="${RUN_ID_PREFIX}_2_${SEED}"
+  export WANDB_TAGS=attention_analysis,$WANDB_TAGS
+  python src/main.py --configs $CONFIGS_STR,configs/attn_analysis.jsonnet \
+    analyze_all --split test
+
+  export WANDB_JOB_TYPE=attn_analysis_aggr
+  export WANDB_RUN_ID="${RUN_ID_PREFIX}_agg_${SEED}"
+  export WANDB_TAGS=attention_aggr_analysis,$WANDB_TAGS
+  python src/main.py --configs $CONFIGS_STR,configs/attn_aggr_analysis.jsonnet \
+    analyze_all --split test
+done
