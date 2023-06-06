@@ -20,7 +20,7 @@ for archive in *.zip; do
   mkdir -p "../../../data/$ds_name"
 
   unzip "$archive" -d "../../../data/$ds_name"
-  mv "../../../data/$ds_name"/* "../../../data/"
+  cp -r "../../../data/$ds_name"/* "../../../data/"
   rm -rf "../../../data/$ds_name"
 done
 

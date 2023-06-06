@@ -272,6 +272,7 @@ dataset/
 dumps/
 model_outputs/
 /data/
+/zip_root/
 
 /notebooks/artifacts/
 
