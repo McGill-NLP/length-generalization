@@ -118,6 +118,9 @@ Note that this script will heavily make use of the [wandb](https://wandb.ai/) pl
 ## Reproducibility
 Work-in-progress. The instruction to fully replicate the results will be released in the coming weeks. 
 
+## Acknowledgement
+This repository is based on https://github.com/kazemnejad/pt_hf_base
+
 ## Citation
 ```bibtex
 @misc{kazemnejad2023:ImpactOfPeOnLengthGen,
