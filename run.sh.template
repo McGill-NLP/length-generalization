@@ -19,7 +19,7 @@ RUN_ID_PREFIX="run__${DS}__${PE}"
 
 CONFIGS_STR="configs/t5_dec_base.jsonnet,\
 configs/models/${PE}.jsonnet,\
-configs/data/${PE}.jsonnet,\
+configs/data/${DS}.jsonnet,\
 configs/sweep.jsonnet,\
 configs/hp_base.jsonnet,\
 configs/final.jsonnet"
