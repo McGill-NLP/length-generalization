@@ -13,6 +13,7 @@
   - [Dataset](#dataset)
   - [Model and Training](#model-and-training)
   - [Example](#example)
+  - [Important Node](#important-note)
 - [Code Structure](#code-structure)
 - [Acknowledgement](#acknowledgement)
 - [Citation](#citation)
@@ -191,6 +192,8 @@ input_ids = torch.cat([torch.tensor([[tokenizer.bos_token_id]], device="cuda"), 
 output = model.generate(input_ids, do_sample=True, temperature=0.2, max_length=16)
 print(tokenizer.decode(output[0]))
 ```
+### Important Note
+Please note that these models significantly differ from the small model used to produce the main results reported in our paper, particularly in terms of size and training context size. As such, they are not directly suitable for evaluation on the datasets described in the paper. To effectively utilize these models, one should consider recreating or adapting the datasets accordingly.
 
 ## Code Structure
 
