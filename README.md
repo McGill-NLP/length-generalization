@@ -8,7 +8,7 @@ Abstract:
 *Length generalization, the ability to generalize from small training context sizes to larger ones, is a critical challenge in the development of Transformer-based language models. Positional encoding (PE) has been identified as a major factor influencing length generalization, but the exact impact of different PE schemes on extrapolation in downstream tasks remains unclear. In this paper, we conduct a systematic empirical study comparing the length generalization performance of decoder-only Transformers with five different position encoding approaches including Absolute Position Embedding (APE), T5's Relative PE, ALiBi, and Rotary, in addition to Transformers without positional encoding (NoPE). Our evaluation encompasses a battery of reasoning and mathematical tasks. Our findings reveal that the most commonly used positional encoding methods, such as ALiBi, Rotary, and APE, are not well suited for length generalization in downstream tasks. More importantly, NoPE outperforms other explicit positional encoding methods while requiring no additional computation. We theoretically demonstrate that NoPE can represent both absolute and relative PEs, but when trained with SGD, it mostly resembles T5's relative PE attention patterns. Finally, we find that scratchpad is not always helpful to solve length generalization and its format highly impacts the model's performance. Overall, our work suggests that explicit position embeddings are not essential for decoder-only Transformers to generalize well to longer sequences.*
 
 ## Updates
-- (Feb 18, 2024) Added the pretained models [1B Scale Pretrained Models](#1b-scale-pretrained-models)
+- (Feb 18, 2024) Added the pretained models ([1B Scale Pretrained Models](#1b-scale-pretrained-models))
 - (Dec 13, 2023) Presented as poster.
 - (Sept 22, 2023) Paper got accepted at NeurIPS 2023.
 
@@ -149,7 +149,7 @@ The configuration used is as follows:
 - Training duration was set to one epoch.
 - For detailed hyperparameters parameters, refer to [Allah et al., 2023](https://arxiv.org/abs/2301.03988).
 
-### How to Use
+### Example
 
 ```python
 import torch
@@ -172,6 +172,19 @@ input_ids = torch.cat([torch.tensor([[tokenizer.bos_token_id]], device="cuda"), 
 output = model.generate(input_ids, do_sample=True, temperature=0.2, max_length=16)
 print(tokenizer.decode(output[0]))
 ```
+
+## Code Structure
+
+Here's a brief overview of the key components of our codebase:
+
+- [`configs`](https://github.com/McGill-NLP/length-generalization/tree/main/configs): Contains Jsonnet files for configuring experiment settings.
+- [`notebooks`](https://github.com/McGill-NLP/length-generalization/tree/main/notebooks): A collection of ad-hoc Jupyter notebooks, primarily for visualization and plotting.
+- [`src`](https://github.com/McGill-NLP/length-generalization/tree/main/src): The main directory for source code, encompassing:
+    - [`models`](https://github.com/McGill-NLP/length-generalization/tree/main/src/models): Houses model implementations, with [`custom_t5_decoder_only.py`](https://github.com/McGill-NLP/length-generalization/blob/main/src/models/custom_t5_decoder_only.py) being the central piece for our custom models.
+    - [`data`](https://github.com/McGill-NLP/length-generalization/tree/main/src/data): Manages the data pipeline. The [`s2s_dl_factory.py`](https://github.com/McGill-NLP/length-generalization/blob/main/src/data/s2s_dl_factory.py) script is key for tokenization and preparing data for sequence-to-sequence tasks.
+    - [`trainers`](https://github.com/McGill-NLP/length-generalization/tree/main/trainers): Contains trainer classes, with [`decoder_only_trainer.py`](https://github.com/McGill-NLP/length-generalization/blob/main/src/trainers/decoder_only_trainer.py) being a custom trainer based on the 🤗 Trainer.
+    - [`runtime`](https://github.com/McGill-NLP/length-generalization/tree/main/runtime): Integrates components and implements training and evaluation procedures. The [`seq2seq_runtime.py`](https://github.com/McGill-NLP/length-generalization/blob/main/src/runtime/seq2seq_runtime.py) script is specifically for sequence-to-sequence tasks.
+
 
 
 ## Acknowledgement
