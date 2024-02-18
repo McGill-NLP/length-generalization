@@ -1,0 +1,7 @@
+@inproceedings{kazemnejad2023:ImpactOfPeOnLengthGen,
+      title={The Impact of Positional Encoding on Length Generalization in Transformers},
+      author={Amirhossein Kazemnejad and Inkit Padhi and Karthikeyan Natesan and Payel Das and Siva Reddy},
+      booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+      year={2023},
+      url={https://openreview.net/forum?id=Drrl2gcjzl}
+}
