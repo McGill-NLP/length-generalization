@@ -13,7 +13,7 @@
   - [Dataset](#dataset)
   - [Model and Training](#model-and-training)
   - [Example](#example)
-  - [Important Node](#important-note)
+  - [Important Note](#important-note)
 - [Code Structure](#code-structure)
 - [Acknowledgement](#acknowledgement)
 - [Citation](#citation)
