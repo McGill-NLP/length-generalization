@@ -8,7 +8,9 @@ Abstract:
 *Length generalization, the ability to generalize from small training context sizes to larger ones, is a critical challenge in the development of Transformer-based language models. Positional encoding (PE) has been identified as a major factor influencing length generalization, but the exact impact of different PE schemes on extrapolation in downstream tasks remains unclear. In this paper, we conduct a systematic empirical study comparing the length generalization performance of decoder-only Transformers with five different position encoding approaches including Absolute Position Embedding (APE), T5's Relative PE, ALiBi, and Rotary, in addition to Transformers without positional encoding (NoPE). Our evaluation encompasses a battery of reasoning and mathematical tasks. Our findings reveal that the most commonly used positional encoding methods, such as ALiBi, Rotary, and APE, are not well suited for length generalization in downstream tasks. More importantly, NoPE outperforms other explicit positional encoding methods while requiring no additional computation. We theoretically demonstrate that NoPE can represent both absolute and relative PEs, but when trained with SGD, it mostly resembles T5's relative PE attention patterns. Finally, we find that scratchpad is not always helpful to solve length generalization and its format highly impacts the model's performance. Overall, our work suggests that explicit position embeddings are not essential for decoder-only Transformers to generalize well to longer sequences.*
 
 ## Updates
-- (Sept 22) Paper got accepted at NeurIPS 2023.
+- (Feb 18, 2024) Added the pretained models [1B Scale Pretrained Models](#1b-scale-pretrained-models)
+- (Dec 13, 2023) Presented as poster.
+- (Sept 22, 2023) Paper got accepted at NeurIPS 2023.
 
 ## Quick Start
 This section provides a quick start guide to use the codebase. 
@@ -117,20 +119,71 @@ singularity exec --nv \
 Note that this script will heavily make use of the [wandb](https://wandb.ai/) platform to log the results.
 
 
-## Reproducibility
-Work-in-progress. The instruction to fully replicate the results will be released in the coming weeks. 
+## 1B Scale Pretrained Models
+
+Following our submission, we pretrained a 1B-scale decoder-only style CodeLLM on 30B tokens, experimenting with three different positional encodings: **NoPE**, **Rotary**, and **ALiBi**. 
+These models were pretrained using the exact same configuration to enable a fair comparison across the different positional encoding techniques (see Appendix F of paper for more details).
+
+Find our pretrained 1B LLMs on 🤗 Huggingface:
+- [`McGill-NLP/codellm_1b_nope`](https://huggingface.co/McGill-NLP/codellm_1b_nope)
+- [`McGill-NLP/codellm_1b_rotary`](https://huggingface.co/McGill-NLP/codellm_1b_rotary)
+- [`McGill-NLP/codellm_1b_alibi`](https://huggingface.co/McGill-NLP/codellm_1b_alibi)
+
+### Dataset
+We compiled a dataset by collecting 30M source code files from the StarCoder corpus ([Li et al., 2023](https://arxiv.org/abs/2305.06161)), totaling 30B tokens. The dataset composition is as follows:
+
+- 40% Python
+- 25% Java
+- 25% JavaScript
+- 5% GitHub issues
+- 5% GitHub commits
+
+### Model and Training
+
+The configuration used is as follows:
+- Decoder-only architecture, trained using next-token prediction.
+- 1.3 billion parameters.
+- Context size of 1024 tokens.
+- Batch size of 256.
+- `d_model` = 1024, `d_kv` = 128, `d_ff` = 16384, with 32 attention heads.
+- Training duration was set to one epoch.
+- For detailed hyperparameters parameters, refer to [Allah et al., 2023](https://arxiv.org/abs/2301.03988).
+
+### How to Use
+
+```python
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+# Available models: `McGill-NLP/codellm_1b_nope`, `McGill-NLP/codellm_1b_rotary`, `McGill-NLP/codellm_1b_alibi`
+model_name = "McGill-NLP/codellm_1b_rotary"
+
+# Important: `trust_remote_code=True` is required due to the custom architecture supporting different positional encodings, necessitating the download of the model implementation from Huggingface
+model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True)
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+
+print(model.config.position_encoding_type)
+# Outputs: `rotary`
+
+prompt = "def print_hello_world():"
+input_ids = tokenizer(prompt, return_tensors="pt", add_special_tokens=False).input_ids
+input_ids = torch.cat([torch.tensor([[tokenizer.bos_token_id]], device="cuda"), input_ids], dim=1)  # Prepend <bos> token
+
+output = model.generate(input_ids, do_sample=True, temperature=0.2, max_length=16)
+print(tokenizer.decode(output[0]))
+```
+
 
 ## Acknowledgement
 This repository is based on https://github.com/kazemnejad/pt_hf_base
 
 ## Citation
 ```bibtex
-@misc{kazemnejad2023:ImpactOfPeOnLengthGen,
-      title={The Impact of Positional Encoding on Length Generalization in Transformers}, 
-      author={Amirhossein Kazemnejad and Inkit Padhi and Karthikeyan Natesan Ramamurthy and Payel Das and Siva Reddy},
+@inproceedings{kazemnejad2023:ImpactOfPeOnLengthGen,
+      title={The Impact of Positional Encoding on Length Generalization in Transformers},
+      author={Amirhossein Kazemnejad and Inkit Padhi and Karthikeyan Natesan and Payel Das and Siva Reddy},
+      booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
       year={2023},
-      eprint={2305.19466},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      url={https://openreview.net/forum?id=Drrl2gcjzl}
 }
 ```
