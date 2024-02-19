@@ -178,7 +178,8 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 # Available models: `McGill-NLP/codellm_1b_nope`, `McGill-NLP/codellm_1b_rotary`, `McGill-NLP/codellm_1b_alibi`
 model_name = "McGill-NLP/codellm_1b_rotary"
 
-# Important: `trust_remote_code=True` is required due to the custom architecture supporting different positional encodings, necessitating the download of the model implementation from Huggingface
+# Important: `trust_remote_code=True` is required due to the custom architecture supporting
+# different positional encodings, necessitating the download of the model implementation from Huggingface
 model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True)
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
